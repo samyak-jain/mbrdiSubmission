@@ -1,3 +1,4 @@
+# Explanation available as [PDF](https://github.com/samyak-jain/mbrdiSubmission/blob/master/MercedesHack.pdf)
 # Pseudocode
 
 ```python
